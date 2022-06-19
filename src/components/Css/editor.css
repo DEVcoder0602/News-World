@@ -1,0 +1,12 @@
+.editor{
+    display: flex;
+}
+
+.left{
+    flex: auto;
+    flex-direction: column;
+}
+
+.right{
+    flex: auto;
+}
